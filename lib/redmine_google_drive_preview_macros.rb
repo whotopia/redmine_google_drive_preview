@@ -1,5 +1,9 @@
 require 'redmine'
 
+module RedmineGoogleDrivePreviewMacros
+  # Just a quick hack to fix this for Redmine 5.x zeitwerk issue.  
+end
+
 module GoogleDrivePreviewMacros
   unloadable
   class Macros
