@@ -2,6 +2,8 @@
 
 Google Drive Preview extension for Redmine.
 
+With quick 5.x fixes.
+
 This plugin provides a button for the editor that allows you to paste a document URL. Then, it will insert a macro that will render the document preview.
 
 If you prefer, you can directly use the macro like this:
